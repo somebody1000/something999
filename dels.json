@@ -146,6 +146,10 @@
    "nnevo":{
       "delO":1,
       "delB":1
-   }
+   },
+   "ahflip_"
+      "delO":60,
+      "delB":20
+    }
 }
 
