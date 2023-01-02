@@ -61,8 +61,7 @@ Bl0ndu
 Zidq__
 BigBrainDev
 atroxfatum
-not_poor
-Covert_Adam
+not_poorCovert_Adam
 JUCKFOJO
 Kunikanka
 PhaserSteve
@@ -103,3 +102,4 @@ TOO_COO_123
 FURIOUSSSS
 Snowy_man
 NotRealElectro0
+Covert_Adam
